@@ -1,3 +1,11 @@
+
+| CS-688   | Web Minning and Graph Analysis       |
+|----------|--------------------------------------|
+| Name     | Paridhi Talwar                       |
+| Date     | 04/19/2024                           |
+| Course   | Spring'2024                          |
+| Project  | Sentimental Analysis                 |
+
 # Sentiment Analysis Project
 
 This project aims to perform sentiment analysis on book reviews using natural language processing (NLP) techniques. The objective is to analyze the sentiment expressed in customer reviews for various books, visualize the sentiment distribution, explore sentiment trends over time, and identify the top books with positive and negative sentiment.
